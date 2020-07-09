@@ -1,1 +1,1 @@
-This is simple docker image 
+This is simple docker image .
